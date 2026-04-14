@@ -1,1 +1,0 @@
-*Session Management:* Using *Cookies* with httpOnly and secure flags to prevent XSS and CSRF attacks.
